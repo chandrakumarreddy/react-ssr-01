@@ -1,0 +1,23 @@
+{
+	"dependencies": {
+		"dotenv": "^7.0.0",
+		"ejs": "^2.6.1",
+		"express": "^4.16.4",
+		"express-session": "^1.16.1",
+		"passport": "^0.4.0",
+		"passport-google-oauth20": "^2.0.0"
+	},
+	"name": "react-ssr-01",
+	"version": "1.0.0",
+	"main": "index.js",
+	"devDependencies": {
+		"nodemon": "^1.18.11"
+	},
+	"scripts": {
+		"start": "nodemon index.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": ""
+}
